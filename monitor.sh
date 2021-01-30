@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SITE=https://mccormick.cx/
+SITE=https://candidature.1337.ma/meetings
 
 # termux-wake-lock
 
